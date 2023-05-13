@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00C6C6C6</color>
+    <color name="login_heading_cl">#C6C6C6</color>
+    <color name="login_background_cl">#353437</color>
+    <color name="login_subtext_cl">#707070</color>
+    <color name="login_accepBtn_cl">#808080</color>
+    <color name="home_foreground_cl">#353437</color>
+    <color name="subHeading_cl">#69686D</color>
+    <color name="floating_button_color">#3498B1</color>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">M-Chat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_to_m_chat">Welcome to M-Chat</string>
+    <string name="only_for_learning_purpose">Only for learning purpose</string>
+    <string name="from_p_developer">From P-Developer</string>
+    <string name="accept_and_continue">Accept and Continue</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="m_chat_will_send_sms_to_verify_your_number">M-Chat will send SMS to verify your number.</string>
+    <string name="carrier_sms_charge_may_apply">carrier SMS charge may apply</string>
+    <string name="next">Next</string>
+    <string name="resent_sms">Resent SMS</string>
+    <string name="enter_6_digit_code">Enter 6 digit code</string>
+    <string name="wait_to_automatically_detect_an_sms_sent_to">wait to automatically detect an SMS sent to</string>
+    <string name="wrong_number">Wrong Number?</string>
+    <string name="desh">--   --   --         --   --   --</string>
+    <string name="please_provide_your_name_and_optional_an_profile_photo">Please provide your name and optional an profile photo</string>
+    <string name="enter_your_name_here">Enter your name here</string>
+    <string name="profile_info">Profile info</string>
+    <string name="about">About</string>
+    <string name="calls">Calls</string>
+    <string name="status">Status</string>
+    <string name="chats">Chats</string>
+    <string name="groups">Groups</string>
+    <string name="wifibutton">wifiButton</string>
+    <string name="moon_btn">moonBtn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="floating_action_button">Floating Action button</string>
+    <string name="enter_message">Enter Message</string>
+</resources>
